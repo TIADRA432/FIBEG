@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="jI7sZjLIpCP0-h1PYjTq">
-    <mxGraphModel dx="3678" dy="1820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3421" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,22 +38,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ETAT 5 : PRISE OBJET" vertex="1">
-          <mxGeometry height="711" width="797" x="705" y="2899" as="geometry" />
+          <mxGeometry height="711" width="797" x="440" y="2640" as="geometry" />
         </mxCell>
         <mxCell id="12" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ETAT 4 : VALIDATION DISTANCE" vertex="1">
-          <mxGeometry height="331" width="1231" x="125" y="2494" as="geometry" />
+          <mxGeometry height="331" width="1231" x="100" y="2469" as="geometry" />
         </mxCell>
         <mxCell id="13" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ETAT 3 : SCAN" vertex="1">
           <mxGeometry height="1199" width="457" x="-32" y="1246" as="geometry" />
         </mxCell>
         <mxCell id="14" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ETAT 2 : ACTIVATION" vertex="1">
-          <mxGeometry height="172" width="279" x="53" y="999" as="geometry" />
+          <mxGeometry height="172" width="279" x="52.5" y="980" as="geometry" />
         </mxCell>
         <mxCell id="15" parent="14" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Activer Vision&#xa;Activer Ultrasons&#xa;Bras en pré-position" vertex="1">
           <mxGeometry height="102" width="204" x="46" y="43" as="geometry" />
         </mxCell>
         <mxCell id="16" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="ETAT 1 : DEPLACEMENT" vertex="1">
-          <mxGeometry height="1092" width="719" x="546" y="473" as="geometry" />
+          <mxGeometry height="1092" width="719" x="546" y="460" as="geometry" />
         </mxCell>
         <mxCell id="17" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="START" vertex="1">
           <mxGeometry height="39" width="68" x="357" y="8" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry height="54" width="196" x="128" y="2087" as="geometry" />
         </mxCell>
         <mxCell id="34" parent="1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Objet valide trouvé ?" vertex="1">
-          <mxGeometry height="205" width="205" x="177" y="2191" as="geometry" />
+          <mxGeometry height="205" width="205" x="190" y="2180" as="geometry" />
         </mxCell>
         <mxCell id="35" parent="1" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="Replier bras&#xa;Vision OFF&#xa;Ultrasons OFF" vertex="1">
           <mxGeometry height="102" width="159" x="630" y="97" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry height="141" width="141" x="1302" y="3444" as="geometry" />
         </mxCell>
         <mxCell id="44" parent="1" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="END LOOP" vertex="1">
-          <mxGeometry height="39" width="97" x="414" y="506" as="geometry" />
+          <mxGeometry height="39" width="97" x="-140" y="289" as="geometry" />
         </mxCell>
         <mxCell id="45" edge="1" parent="1" source="17" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="18" value="">
           <mxGeometry relative="1" as="geometry">
